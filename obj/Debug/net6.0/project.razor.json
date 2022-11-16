@@ -16298,13 +16298,48 @@
   "RootNamespace": "courseware",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\Admin\\Desktop\\MyProject\\Courseware\\Views\\Course\\Create.cshtml",
+      "TargetPath": "Views\\Course\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Admin\\Desktop\\MyProject\\Courseware\\Views\\Course\\NotFound.cshtml",
+      "TargetPath": "Views\\Course\\NotFound.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Admin\\Desktop\\MyProject\\Courseware\\Views\\Shared\\_Navbar.cshtml",
+      "TargetPath": "Views\\Shared\\_Navbar.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Admin\\Desktop\\MyProject\\Courseware\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Admin\\Desktop\\MyProject\\Courseware\\Views\\Course\\GetCourseById.cshtml",
+      "TargetPath": "Views\\Course\\GetCourseById.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Admin\\Desktop\\MyProject\\Courseware\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Admin\\Desktop\\MyProject\\Courseware\\Views\\Course\\_JoinCourseModal.cshtml",
+      "TargetPath": "Views\\Course\\_JoinCourseModal.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Admin\\Desktop\\MyProject\\Courseware\\Views\\Course\\Index.cshtml",
+      "TargetPath": "Views\\Course\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Admin\\Desktop\\MyProject\\Courseware\\Views\\Course\\JoinCourse.cshtml",
+      "TargetPath": "Views\\Course\\JoinCourse.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -16323,8 +16358,23 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Admin\\Desktop\\MyProject\\Courseware\\Views\\Shared\\_Landing.cshtml",
+      "TargetPath": "Views\\Shared\\_Landing.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Admin\\Desktop\\MyProject\\Courseware\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Admin\\Desktop\\MyProject\\Courseware\\Views\\Account\\Register.cshtml",
+      "TargetPath": "Views\\Account\\Register.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Admin\\Desktop\\MyProject\\Courseware\\Views\\Account\\Login.cshtml",
+      "TargetPath": "Views\\Account\\Login.cshtml",
       "FileKind": "mvc"
     },
     {

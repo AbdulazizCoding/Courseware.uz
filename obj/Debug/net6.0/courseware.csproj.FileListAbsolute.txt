@@ -75,3 +75,4 @@ C:\Users\Admin\Desktop\MyProject\Courseware\obj\Debug\net6.0\refint\courseware.d
 C:\Users\Admin\Desktop\MyProject\Courseware\obj\Debug\net6.0\courseware.pdb
 C:\Users\Admin\Desktop\MyProject\Courseware\obj\Debug\net6.0\courseware.genruntimeconfig.cache
 C:\Users\Admin\Desktop\MyProject\Courseware\obj\Debug\net6.0\ref\courseware.dll
+C:\Users\Admin\Desktop\MyProject\Courseware\obj\Debug\net6.0\scopedcss\Views\Shared\_Landing.cshtml.rz.scp.css
